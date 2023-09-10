@@ -10,4 +10,8 @@ CalculatorApp is a simple calculator application built using C# and the .NET Fra
 - Division
 
 ## Language
+   This application built using C#
+
+## IDE
+   Visual studio
    
